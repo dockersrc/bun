@@ -19,13 +19,13 @@ dockermgr download src bun
 OR
 
 ```shell
-git clone "https://github.com/casjaysdevdocker/bun" "$HOME/Projects/github/casjaysdevdocker/bun"
+git clone "https://github.com/casjaysdev/bun" "$HOME/Projects/github/casjaysdev/bun"
 ```
 
 ## Build container  
 
 ```shell
-cd "$HOME/Projects/github/casjaysdevdocker/bun"
+cd "$HOME/Projects/github/casjaysdev/bun"
 buildx 
 ```
 
